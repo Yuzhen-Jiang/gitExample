@@ -1,2 +1,3 @@
-boss, yjiang453, Jiang, Yuzhen
+role,NetID,Lastname,Firstname
+boss,yjiang453,Jiang,Yuzhen
 employee,Jpfox3,Fox,Jacob
